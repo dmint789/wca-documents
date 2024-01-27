@@ -28,10 +28,10 @@ The purpose of this policy is to define standards of how official WCA Scrambles,
 
     1. A Competition Area is a designated area where competitors do their official solves at designated Solving Stations.
         1. A competition should have at least one designated Competition Area which will be in use throughout the group.
-    2. A Waiting Area is a designated area for competitors of the ongoing group to be in while waiting to be called for their attempts. A Competition Area may have one Waiting Area.
-        1. If there is no designated Waiting Area, all competitors in one group must be placed at the Solving Stations.
-    3. The organization team may require the competitors to go back to the Competitors Waiting Area after an attempt and have them be called to a different solving station for the next attempt.
-    4. When competing, competitors must not actively try to watch another competitor complete an official attempt.
+        2. A Competition Area may have one Waiting Area.
+            1. If there is no designated Waiting Area, all competitors in one group must be placed at the Solving Stations.
+    2. The organization team may require the competitors to go back to the Competitors Waiting Area after an attempt and have them be called to a different solving station for the next attempt.
+    3. When competing, competitors must not actively try to watch another competitor complete an official attempt.
         1. The organization team and the WCA Delegate should reduce the possibility of the above occuring. This could include adding a visual barrier between Solving Stations and/or having a sufficient distance between the Waiting Area and the Solving Stations.
         2. Competitors should not be seated directly across from each other facing each other, unless a visual barrier is set up between them.
 

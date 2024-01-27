@@ -39,7 +39,6 @@ The purpose of this policy is to define standards of how official WCA Scrambles,
 
     1. When a competitor has been called for their group, they must not look at any broadcasting of their allocated group.
         1. The organization team should announce this on the competition page if they are aware of a broadcast at the competition being conducted.
-    2. The organization team should consider adding a delay to the broadcast such that if competitors were to view the broadcast they would not receive any new information.
     2. For a final round, the organization team may require competitors competing in the final round to not interact with certain electronic devices until they have completed their attempts to ensure that no broadcast of the competition is being viewed by the competitors.
         1. The organization team must consider the fairness of this and must receive approval from the WCA Delegate(s).
 
